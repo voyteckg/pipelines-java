@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/wojciechgoralczyk/test/_apis/build/status/voyteckg.pipelines-java?branchName=master)](https://dev.azure.com/wojciechgoralczyk/test/_build/latest?definitionId=21&branchName=master)
 
 # Contributing
 
